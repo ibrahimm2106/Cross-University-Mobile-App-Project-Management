@@ -1,0 +1,31 @@
+ID,Task Name,Phase,Start Date,End Date,Duration (weeks)
+1,1.0 Project Initiation,Project Initiation,01-Sep-2025,29-Sep-2025,4
+2,1.1 Form Project Team,Project Initiation,01-Sep-2025,15-Sep-2025,2
+3,1.1.1 Recruit SU Representatives,Project Initiation,01-Sep-2025,08-Sep-2025,1
+4,1.1.2 Engage University Partners,Project Initiation,08-Sep-2025,15-Sep-2025,1
+5,1.2 Establish Governance,Project Initiation,15-Sep-2025,29-Sep-2025,2
+6,1.2.1 Establish Project Board,Project Initiation,15-Sep-2025,29-Sep-2025,2
+7,1.3 Define Project Scope,Project Initiation,29-Sep-2025,13-Oct-2025,2
+8,1.3.1 Define Project Boundaries,Project Initiation,29-Sep-2025,13-Oct-2025,2
+9,2.0 Requirements Gathering,Requirements Gathering,13-Oct-2025,24-Nov-2025,6
+10,2.1 Student Needs Analysis,Requirements Gathering,13-Oct-2025,03-Nov-2025,3
+11,2.1.1 Focus Groups,Requirements Gathering,13-Oct-2025,27-Oct-2025,2
+12,2.1.2 Online Surveys,Requirements Gathering,27-Oct-2025,03-Nov-2025,1
+13,2.2 Technical Requirements,Requirements Gathering,13-Oct-2025,03-Nov-2025,3
+14,2.2.1 API Specifications,Requirements Gathering,20-Oct-2025,03-Nov-2025,2
+15,2.3 University Integration,Requirements Gathering,03-Nov-2025,24-Nov-2025,3
+16,2.3.1 Data Sharing Protocols,Requirements Gathering,10-Nov-2025,24-Nov-2025,2
+17,3.0 App Design & Development,App Design & Development,03-Nov-2025,29-Dec-2025,8
+18,3.1 UX Design,App Design & Development,03-Nov-2025,24-Nov-2025,3
+19,3.1.1 Wireframing,App Design & Development,03-Nov-2025,10-Nov-2025,1
+20,3.1.2 Prototyping,App Design & Development,10-Nov-2025,24-Nov-2025,2
+21,3.2 Technical Development,App Design & Development,24-Nov-2025,29-Dec-2025,5
+22,3.2.1 Frontend Development,App Design & Development,24-Nov-2025,15-Dec-2025,3
+23,3.2.2 Backend Development,App Design & Development,01-Dec-2025,29-Dec-2025,4
+24,4.0 Implementation & Launch,Implementation & Launch,29-Dec-2025,23-Feb-2026,8
+25,4.1 Testing,Implementation & Launch,29-Dec-2025,19-Jan-2026,3
+26,4.1.1 User Acceptance Testing,Implementation & Launch,29-Dec-2025,19-Jan-2026,3
+27,4.2 Launch Activities,Implementation & Launch,19-Jan-2026,09-Feb-2026,3
+28,4.2.1 Marketing Campaign,Implementation & Launch,19-Jan-2026,09-Feb-2026,3
+29,4.3 Post-Launch Support,Implementation & Launch,09-Feb-2026,23-Feb-2026,2
+30,4.3.1 Feedback Collection,Implementation & Launch,09-Feb-2026,23-Feb-2026,2
