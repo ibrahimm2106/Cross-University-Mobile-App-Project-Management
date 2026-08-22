@@ -18,7 +18,7 @@ The repository translates the original academic project into a recruiter-friendl
 | Project initiation | Objectives, scope, approach, governance and budget |
 | Stakeholder management | 12 stakeholder groups with impact/influence ratings and engagement approaches |
 | Planning | Four-phase WBS with 30 scheduled tasks |
-| Scheduling | Gantt-derived task dataset, milestones and dependencies |
+| Scheduling | Gantt workbook, structured task dataset, milestones and dependencies |
 | Risk management | Risk-register analysis, ownership, mitigation and contingency thinking |
 | Leadership | Sponsor vs project-manager responsibilities |
 | Methodology | Source recommendation for a hybrid Agile + PRINCE2 approach |
@@ -53,6 +53,8 @@ flowchart LR
 ├── .github/
 │   └── workflows/
 │       └── portfolio-check.yml
+├── assets/
+│   └── Cross_University_Mobile_App_Gantt_Chart.xlsx
 ├── data/
 │   ├── budget.csv
 │   ├── gantt_schedule.csv
@@ -77,9 +79,10 @@ flowchart LR
 2. **[Project Initiation Document](docs/PROJECT_INITIATION_DOCUMENT.md)** — dates, budget, approach and governance.
 3. **[Stakeholder management](docs/STAKEHOLDER_MANAGEMENT.md)** — stakeholder prioritisation and engagement.
 4. **[WBS & schedule](docs/WBS_AND_SCHEDULE.md)** — 30-task plan, milestones and dependencies.
-5. **[Risk management](docs/RISK_MANAGEMENT.md)** — source-grounded risk register summary and portfolio notes.
-6. **[Project leadership](docs/PROJECT_LEADERSHIP.md)** — sponsor and project-manager responsibilities.
-7. **[Methodology & context](docs/METHODOLOGY_AND_CONTEXT.md)** — what the source says about Agile, PRINCE2 and the assessment requirement.
+5. **[Original Gantt workbook](assets/Cross_University_Mobile_App_Gantt_Chart.xlsx)** — the supplied schedule workbook preserved as a portfolio asset.
+6. **[Risk management](docs/RISK_MANAGEMENT.md)** — source-grounded risk register summary and portfolio notes.
+7. **[Project leadership](docs/PROJECT_LEADERSHIP.md)** — sponsor and project-manager responsibilities.
+8. **[Methodology & context](docs/METHODOLOGY_AND_CONTEXT.md)** — what the source says about Agile, PRINCE2 and the assessment requirement.
 
 ## Selected milestones
 
