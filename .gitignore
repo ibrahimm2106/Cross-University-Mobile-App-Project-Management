@@ -1,0 +1,16 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+~$*
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local exports
+*.bak
+*.log
